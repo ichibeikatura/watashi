@@ -61,7 +61,7 @@ textpresso@gmail.com
 
 10/04 [PRESIDENT 古本マニアがどハマり"電子書籍の奥深き世界" ](https://president.jp/articles/-/30139)
 
-# 講師など
+# 色々
 
 08/23 三重の文学小研究会 インターネットで調べる技術 [使用した資料](s01.pdf)
 
