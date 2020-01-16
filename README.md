@@ -1,3 +1,5 @@
+# 私について
+
 山下泰平
 
 1977年生まれ。明治・大正あたりの文化を調べて文章を書く人。
@@ -80,3 +82,6 @@ textpresso@gmail.com
 10/4
 
 [PRESIDENT 古本マニアがどハマり"電子書籍の奥深き世界" ](https://president.jp/articles/-/30139)
+
+---
+textpresso@gmail.com
