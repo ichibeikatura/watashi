@@ -85,4 +85,7 @@ textpresso@gmail.com
 [PRESIDENT 古本マニアがどハマり"電子書籍の奥深き世界" ](https://president.jp/articles/-/30139)
 
 ---
+
+![アイコン](https://avatars3.githubusercontent.com/u/8539891?s=400&u=72e01a44816cc3b790f74f80bdac7e6de1a16cfd&v=4)
+
 textpresso@gmail.com
