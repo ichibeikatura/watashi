@@ -63,13 +63,14 @@ textpresso@gmail.com
 
 10/04 [PRESIDENT 古本マニアがどハマり"電子書籍の奥深き世界" ](https://president.jp/articles/-/30139)
 
-
-
 # 色々
 
-08/23 三重の文学小研究会 インターネットで調べる技術 [使用した資料](s01.pdf)
+## イベントなど
 
-### デジタルライブラリー関連
+08/23 三重の文学小研究会 インターネットで調べる技術 [使用した資料](s01.pdf)
+	
+## デジタルライブラリー関連
+
 [『まいボコ』明治娯楽物語コレクション](http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2019/annot/myboco-collection.json)
 
 [人文情報学月報第95号 「享受・アマチュアイズム・市民科学」](https://www.dhii.jp/DHM/dhm95)
@@ -77,10 +78,6 @@ textpresso@gmail.com
 [美術館、図書館、公文書館、博物館などのデジタルアーカイブを分野横断で検索できる「ジャパンサーチ」を使い倒せ！](https://hon.jp/news/1.0/0/25775)
 
 [利活用スキーマの利活用 PDF](https://www.ndl.go.jp/jp/event/events/20190717_xenon_limited_partners_kanzaki.pdf)
-
-[]()
-
-
 
 ---
 
