@@ -21,6 +21,11 @@ textpresso@gmail.com
 
 [『「舞姫」の主人公をバンカラとアフリカ人がボコボコにする最高の小説の世界が明治に存在したので20万字くらいかけて紹介する本』](https://amzn.to/2QWzIjN)
 
+[紀伊國屋じんぶん大賞2020](https://www.kinokuniya.co.jp/c/jinbun2020/)で9位をいただきました。
+
+[簡易生活の方法　明治にストレスフリーな最高の生き方があった！](https://amzn.to/374Xv5U)
+
+
 # 連載
 
 2011-2013 スタジオジブリ「熱風」「忘れられた物語―講談速記本の発見」
@@ -44,6 +49,10 @@ textpresso@gmail.com
 07/05 [新潮 8月号 新潮 「抜け落ちてしまった明治の昆虫採集」](https://www.shinchosha.co.jp/shincho/backnumber/20190705/)
 
 12/18 [Web 中公新書 私の好きな中公新書 ３冊 『広げる読書、落ち着く新書』](http://www.chuko.co.jp/shinsho/portal/113176.html)
+
+## 2020年
+
+02/01 [一冊の本 著者より 現代より進んでいた！？　明治にあった究極のシンプルライフ](https://dot.asahi.com/1satsu/tyosya/2020013100080.html)
 
 # インタビューなど
 
@@ -78,6 +87,9 @@ textpresso@gmail.com
 [美術館、図書館、公文書館、博物館などのデジタルアーカイブを分野横断で検索できる「ジャパンサーチ」を使い倒せ！](https://hon.jp/news/1.0/0/25775)
 
 [利活用スキーマの利活用 PDF](https://www.ndl.go.jp/jp/event/events/20190717_xenon_limited_partners_kanzaki.pdf)
+
+## tool
+[日本語文書作製支援ツールです](https://github.com/ichibeikatura/nhgm)
 
 ---
 
