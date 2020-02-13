@@ -19,28 +19,32 @@ textpresso@gmail.com
 
 ## 2019
 
-[『「舞姫」の主人公をバンカラとアフリカ人がボコボコにする最高の小説の世界が明治に存在したので20万字くらいかけて紹介する本』](https://amzn.to/2QWzIjN)
+[『「舞姫」の主人公をバンカラとアフリカ人がボコボコにする最高の小説の世界が明治に存在したので20万字くらいかけて紹介する本』](https://amzn.to/2QWzIjN) 柏書房
 
 [紀伊國屋じんぶん大賞2020](https://www.kinokuniya.co.jp/c/jinbun2020/)で9位をいただきました。
 
-[簡易生活の方法　明治にストレスフリーな最高の生き方があった！](https://amzn.to/374Xv5U)
+## 2020
+[『簡易生活の方法　明治にストレスフリーな最高の生き方があった！』](https://amzn.to/374Xv5U) 朝日新聞出版 
 
 
 # 連載
 
+## 2011-2013
+
 2011-2013 スタジオジブリ「熱風」「忘れられた物語―講談速記本の発見」
+
 
 # 寄稿
 
-## 2015年
+## 2015
 
 12/01-12/15 朝日新聞デジタル 『物語の中の真田一族』 [上](http://www.asahi.com/special/sanada/tales-of-sanada-part1.html) [中](http://www.asahi.com/special/sanada/tales-of-sanada-part2.html) [下](http://www.asahi.com/special/sanada/tales-of-sanada-part3.html)
 
-## 2017年
+## 2017
 
 04/27 [青土社 ユリイカ 5月号 『われ発見せり』](http://www.seidosha.co.jp/book/index.php?id=3039)
 
-## 2019年
+## 2019
 
 04/27 [「とりあえず目的をなくそう」　コトリコ流、面白おかしく暮しながら“大量の知識をインプットする”方法](https://nlab.itmedia.co.jp/nl/articles/1904/27/news012.html)
 
@@ -50,7 +54,7 @@ textpresso@gmail.com
 
 12/18 [Web 中公新書 私の好きな中公新書 ３冊 『広げる読書、落ち着く新書』](http://www.chuko.co.jp/shinsho/portal/113176.html)
 
-## 2020年
+## 2020
 
 02/01 [一冊の本 著者より 現代より進んでいた！？　明治にあった究極のシンプルライフ](https://dot.asahi.com/1satsu/tyosya/2020013100080.html)
 
@@ -72,12 +76,14 @@ textpresso@gmail.com
 
 10/04 [PRESIDENT 古本マニアがどハマり"電子書籍の奥深き世界" ](https://president.jp/articles/-/30139)
 
-# 色々
+# イベントなど
 
-## イベントなど
+## 2019
 
 08/23 三重の文学小研究会 インターネットで調べる技術 [使用した資料](s01.pdf)
 	
+# 色々
+
 ## デジタルライブラリー関連
 
 [『まいボコ』明治娯楽物語コレクション](http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2019/annot/myboco-collection.json)
@@ -89,6 +95,7 @@ textpresso@gmail.com
 [利活用スキーマの利活用 PDF](https://www.ndl.go.jp/jp/event/events/20190717_xenon_limited_partners_kanzaki.pdf)
 
 ## tool
+
 [日本語文書作製支援ツールです](https://github.com/ichibeikatura/nhgm)
 
 ---
