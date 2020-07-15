@@ -23,9 +23,10 @@ textpresso@gmail.com
 
 [紀伊國屋じんぶん大賞2020](https://www.kinokuniya.co.jp/c/jinbun2020/)で9位をいただきました。
 
+[第73回日本推理作家協会賞評論・研究部門の候補作になりましたが落選しました](http://www.kashiwashobo.co.jp/news/n34073.html)
+
 ## 2020
 [『簡易生活の方法　明治にストレスフリーな最高の生き方があった！』](https://amzn.to/374Xv5U) 朝日新聞出版 
-
 
 # 連載
 
@@ -75,6 +76,11 @@ textpresso@gmail.com
 08/26 [読売新聞 朝刊 ［つなぐ］文化財継承の今＜４＞資料を電子化　ネット公開…図書館や研究機関　海外に日本発信](https://www.yomiuri.co.jp/culture/20190825-OYT8T50062/)
 
 10/04 [PRESIDENT 古本マニアがどハマり"電子書籍の奥深き世界" ](https://president.jp/articles/-/30139)
+
+# 2020
+
+04/10 [週刊朝日 2020年4月10日増大号 書いた人 「山下泰平」](https://publications.asahi.com/ecs/detail/?item_id=21858)
+06/10 [PHPスペシャル 2020年2月号 ](https://www.php.co.jp/magazine/phpsp/?unique_issue_id=05425)
 
 # イベントなど
 
