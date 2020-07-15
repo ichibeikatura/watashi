@@ -80,6 +80,7 @@ textpresso@gmail.com
 # 2020
 
 04/10 [週刊朝日 2020年4月10日増大号 書いた人 「山下泰平」](https://publications.asahi.com/ecs/detail/?item_id=21858)
+
 06/10 [PHPスペシャル 2020年2月号 ](https://www.php.co.jp/magazine/phpsp/?unique_issue_id=05425)
 
 # イベントなど
