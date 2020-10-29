@@ -111,7 +111,7 @@ textpresso@gmail.com
 
 [日本語文書作製支援ツールです](https://github.com/ichibeikatura/nhgm)
 
-[近デジ検索 スマートフォンで多少はマシにデジタルライブラリー](https://ichibeikatura.github.io/watashi/kindai.html)
+[近デジ検索 スマートフォンで多少はマシに国立国会図書館デジタルコレクションを検索する](https://ichibeikatura.github.io/watashi/kindai.html)
 
 ---
 
