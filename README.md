@@ -83,6 +83,12 @@ textpresso@gmail.com
 
 06/10 [PHPスペシャル 2020年2月号 ](https://www.php.co.jp/magazine/phpsp/?unique_issue_id=05425)
 
+07/12 [派遣社員が見つけたコロナ禍での自由　正社員は「しんどそう」](https://dot.asahi.com/dot/2020062400074.html)
+
+07/19 [職場の風通しも効率も悪いなら…今すぐやめるべき3つの行動](https://dot.asahi.com/dot/2020062400077.html)
+
+07/26 [小学生で人生を「諦めた」　究極のシンプルライフにたどり着いた男の境地](https://dot.asahi.com/dot/2020063000048.html)
+
 # イベントなど
 
 ## 2019
