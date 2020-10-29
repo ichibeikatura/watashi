@@ -107,9 +107,11 @@ textpresso@gmail.com
 
 [利活用スキーマの利活用 PDF](https://www.ndl.go.jp/jp/event/events/20190717_xenon_limited_partners_kanzaki.pdf)
 
-## tool
+## tools
 
 [日本語文書作製支援ツールです](https://github.com/ichibeikatura/nhgm)
+
+[近デジ検索 スマートフォンで多少はマシにデジタルライブラリー](https://ichibeikatura.github.io/watashi/kindai.html)
 
 ---
 
