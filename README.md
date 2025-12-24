@@ -2,10 +2,8 @@
 
 <img src="https://avatars3.githubusercontent.com/u/8539891?s=400&u=72e01a44816cc3b790f74f80bdac7e6de1a16cfd&v=4" width="120" alt="アイコン" align="right">
 
-1977年生まれ。デジタルアーカイブを活用して明治・大正あたりの文化を調べて文章を書く人。
-
 - **Contact**: textpresso@gmail.com
-- **Twitter**: [@kotoriko](https://twitter.com/kotoriko)
+- **X(旧Twitter)**: [@kotoriko](https://x.com/kotoriko)
 - **Blog**: [cocolog-nifty.hatenablog.com](https://cocolog-nifty.hatenablog.com)
 - **Note**: [note.com/yamasitataihei](https://note.com/yamasitataihei)
 

@@ -1,2 +1,5 @@
-remote_theme: "jekyll/minima"
-
+title: 私について
+description: >-
+  デジタルアーカイブを活用して明治・大正あたりの文化を調べて文章を書く人です。
+remote_theme: jekyll/minima
+show_excerpts: false
