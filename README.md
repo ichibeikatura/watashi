@@ -57,18 +57,18 @@
 - [読売新聞 夕刊 明治の物語 楽しさ共有](https://www.yomiuri.co.jp/local/kyoto/feature/CO021791/20190608-OYTAT50036/) (06/09)
 - [アフター６ジャンクション 「舞姫」主人公をバンカラとアフリカ人がボコボコにする最高の小説世界が明治に存在したので40分くらいかけて紹介するラジオ](https://www.tbsradio.jp/372592) (05/21)
 
-## イベント・講演
-
-- **2019/08/23**: 三重の文学小研究会「インターネットで調べる技術」  
-  [資料PDF](s01.pdf)
-
-## プロジェクト・ツール
+## 諸々・ツール
 
 ### デジタルライブラリー関連
 - [『まいボコ』明治娯楽物語コレクション](http://www.kanzaki.com/works/2016/pub/image-annotator?u=/works/2019/annot/myboco-collection.json)
 - [人文情報学月報第95号 「享受・アマチュアイズム・市民科学」](https://www.dhii.jp/DHM/dhm95)
 - [美術館、図書館、公文書館、博物館などのデジタルアーカイブを分野横断で検索できる「ジャパンサーチ」を使い倒せ！](https://hon.jp/news/1.0/0/25775)
 - [利活用スキーマの利活用 PDF](https://www.ndl.go.jp/jp/event/events/20190717_xenon_limited_partners_kanzaki.pdf)
+
+### イベント・講演
+
+- **2019/08/23**: 三重の文学小研究会「インターネットで調べる技術」  
+  [資料PDF](s01.pdf)
 
 ### Tools
 - [nhg-minor-mode](https://github.com/ichibeikatura/nhg-minor-mode): 日本語文書作製支援ツール
