@@ -1,7 +1,9 @@
 
 <img src="https://avatars3.githubusercontent.com/u/8539891?s=400&u=72e01a44816cc3b790f74f80bdac7e6de1a16cfd&v=4" width="120" alt="アイコン" align="right">
 
-山下泰平です。デジタルアーカイブを活用して明治・大正あたりの文化を調べて文章を書いています。
+山下泰平です。
+
+デジタルアーカイブを活用して明治・大正あたりの文化を調べて文章を書いています。
 
 - **Contact**: textpresso@gmail.com
 - **X(旧Twitter)**: [@kotoriko](https://x.com/kotoriko)
