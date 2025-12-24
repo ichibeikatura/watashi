@@ -1,4 +1,3 @@
 title: 私について
 description:  こういう人です
-remote_theme: pages-themes/minimal@v0.2.0
-show_excerpts: false
+remote_theme: jekyll/minima
