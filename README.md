@@ -1,4 +1,4 @@
-# 山下泰平
+# デジタルアーカイブを活用して明治・大正あたりの文化を調べて文章を書いています。
 
 <img src="https://avatars3.githubusercontent.com/u/8539891?s=400&u=72e01a44816cc3b790f74f80bdac7e6de1a16cfd&v=4" width="120" alt="アイコン" align="right">
 
