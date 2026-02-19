@@ -74,3 +74,7 @@
 ### Tools
 - [nhg-minor-mode](https://github.com/ichibeikatura/nhg-minor-mode): 日本語文書作製支援ツール
 - [year-convert](https://github.com/ichibeikatura/year-convert) :カーソル位置にある年表記を、西暦と和暦の間でトグル変換（循環）させるEmacsパッケージ
+
+## 国立国会図書館デジタルコレクション アクセス記録
+
+<iframe src="ndl_history.html" width="100%" height="500" frameborder="0"></iframe>
